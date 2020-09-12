@@ -4,4 +4,3 @@ git clone --branch staging git@github.com:evidentti/core.git
 cd core
 npm install
 npm audit
-npm run build
